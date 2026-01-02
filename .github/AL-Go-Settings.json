@@ -4,5 +4,6 @@
   "templateUrl": "https://github.com/microsoft/AL-Go-PTE@main",
   "DeliverToStorage": {
     "CreateContainerIfNotExist": true
-  }
+  },
+  "templateSha": "2b0291277622df06df2856bc05768be2ebb5a6b5"
 }
